@@ -1,3 +1,7 @@
+// Original author: ClearCode Inc.
+// License: MIT
+// Repository: https://github.com/clear-code/js-extended-immutable
+
 var EXPORTED_SYMBOLS = ['ExtendedImmutable'];
 
 function ExtendedImmutable(aImmutable, aExtraProperties) {
